@@ -1,4 +1,4 @@
-# Brewtiful Coffee Shop: Decorator Pattern (Java)
+# Brewtiful Coffee Shop: Decorator Pattern
 
 A Java implementation of the **Decorator design pattern** for calculating the cost and listing the ingredients of customized coffee orders at "Brewtiful."
 
