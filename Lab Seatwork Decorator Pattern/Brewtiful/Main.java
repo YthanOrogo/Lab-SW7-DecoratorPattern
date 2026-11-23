@@ -18,6 +18,6 @@ public class Main {
     }
 
     private static void print(Coffee coffee) {
-        System.out.printf("%s = ₱ %.2f%n", coffee.getDescription(), coffee.getCost());
+        System.out.printf("%s = PHP %.2f%n", coffee.getDescription(), coffee.getCost());
     }
 }
